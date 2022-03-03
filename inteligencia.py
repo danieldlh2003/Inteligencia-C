@@ -4,7 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
-# variable 
+# primer punto
 donacion = int(input("ingrese la donacion"))
 telecomunicaciones = .1 * donacion
 sistemas = .25* donacion
